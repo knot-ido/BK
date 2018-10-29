@@ -24,5 +24,5 @@
 
 游戏，妹子与爱妃，😜😜
 ### 内容设置
- [编辑文本](https://github.com/knot-ido/bk/edit/master/README.md) 
+ [编辑文本](https://github.com/knot-ido/yyphotos/edit/master/README.md) 
 

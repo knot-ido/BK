@@ -220,7 +220,7 @@ p
 {
 	position: relative;
 	top: 68px;
-	left: 50px;
+	left: 0.1px;//右侧白边宽度
 }
 
 .text-section h2
